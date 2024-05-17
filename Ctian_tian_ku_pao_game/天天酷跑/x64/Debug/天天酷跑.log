@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\VS\VS_develpment_code\天天酷跑\Ctian_tian_ku_pao_game\天天酷跑\main.cpp(76,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VS\VS_develpment_code\天天酷跑\Ctian_tian_ku_pao_game\天天酷跑\main.cpp(63,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\VS_develpment_code\天天酷跑\Ctian_tian_ku_pao_game\天天酷跑\main.cpp(71,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  天天酷跑.vcxproj -> E:\VS\VS_develpment_code\天天酷跑\Ctian_tian_ku_pao_game\x64\Debug\天天酷跑.exe
